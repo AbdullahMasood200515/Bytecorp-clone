@@ -1,3 +1,3 @@
 # Bytecorp-clone
-Practicing my website development skills
+Practicing my website development skills.
 Arthor -Abdullah Masood 
